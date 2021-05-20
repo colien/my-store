@@ -1,0 +1,26 @@
+{
+  "name": "my-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local": "nodeman example/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colien/my-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colien/my-store/issues"
+  },
+  "homepage": "https://github.com/colien/my-store#readme",
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  },
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
